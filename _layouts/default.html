@@ -11,6 +11,31 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <style>
+    .button {
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    }
+    .button1 {
+      border-radius: 25px;
+      background-color: white; 
+      color: black; 
+      border: 2px solid #2271B0;
+    }
+    .button1:hover {
+      border-radius: 25px;
+      background-color: #2271B0;
+      color: white;
+    }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -30,7 +55,7 @@
         {% if site.github.is_user_page %}
         
         <a href="mailto:alekvasek@icloud.com?subject=Github">
-          <button id="btnMail">Contact Me!</button>
+          <button class="button button1" id="btnMail">Contact Me!</button>
         </a>
         
         <p>
