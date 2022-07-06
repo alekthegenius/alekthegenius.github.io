@@ -2,7 +2,7 @@
 title: "Raspberry Pi Digital Camera"
 layout: post
 date: 2022-7-6 13:33
-image: camera.png
+image: https://user-images.githubusercontent.com/106783234/177623371-92b9ad87-6a2a-4184-95f1-b942cc615839.png
 hidden: true
 projects: true
 headerImage: true
