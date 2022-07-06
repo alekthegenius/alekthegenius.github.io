@@ -1,26 +1,23 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
-
-# twitter summary info
-description: A blog about technology and stuff related
+title: Alek vasek
+bio: Hi, My name is Alek. On the weekends, you will catch me tinkering with my Raspberry Pis, rehearsing Bach on my Guitar, or designing the future with Fusion 360.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: icon.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://alekthegenius.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -29,31 +26,24 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+  #shortname: github # enter this from your disqus account
+  #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+#linkedin: mylinkedin
+github: alekthegenius
+email: alekvasek@icloud.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    name: Alek vasek
+    bio: Hi, My name is Alek. On the weekends, you will catch me tinkering with my Raspberry Pis, rehearsing Bach on my Guitar, or designing the future with Fusion 360.
+    external-image: true
+    picture: icon.png
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
