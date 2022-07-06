@@ -26,5 +26,5 @@ To make it unique
 To have full control over the camera settings, ISO, Shutter Speed, etc.
 To fulfill my objectives, I first designed the camera case to be round, which reduces the size and weight of the camera, while also giving it a sleek, modern look. Using Python 3 and Tkinter, I also programmed an app to allow for full manual control over the camera settings and features.
 
-Full Instructions: [https://alekthegenius.github.io/Raspberry-Pi-Digital-Camera/](https://alekthegenius.github.io/Raspberry-Pi-Digital-Camera/)
+Full Instructions: [https://alekthegenius.github.io/Raspberry-Pi-Digital-Camera/](https://alekthegenius.github.io/Raspberry-Pi-Digital-Camera/) \
 Instructables Project: [https://www.instructables.com/Raspberry-Pi-Digital-Camera/](https://www.instructables.com/Raspberry-Pi-Digital-Camera/)
