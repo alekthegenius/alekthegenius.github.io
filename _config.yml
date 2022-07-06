@@ -9,7 +9,7 @@ picture: icon.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: false
+dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -39,7 +39,7 @@ github: alekthegenius
 email: alekvasek@icloud.com
 
 authors:
-  johndoe:
+  alekv:
     name: Alek V.
     bio: Hi, My name is Alek. On the weekends, you will catch me tinkering with my Raspberry Pis, rehearsing Bach on my Guitar, or designing the future with Fusion 360.
     external-image: true
