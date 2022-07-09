@@ -140,6 +140,7 @@ After the Raspberry Pi has finished rebooting, wait a couple of minutes, then th
 http://192.168.X.X:6680
 ```
 *Replace the Xs with your actual IP Address*
+
 If not you can check for errors by entering the following commands on the Raspberry Pi:
 ```
 sudo systemctl status mopidy
