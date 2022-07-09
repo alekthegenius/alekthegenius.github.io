@@ -22,8 +22,9 @@ Today I will show you how to create your own Raspberry Music Server.
 
 I designed my Music Server with two goals in mind, 
 
-To have a fast, fully functional Music Server 
-To make it look as aesthetically pleasing as possible without sacrificing functionality.
+1. To have a fast, fully functional Music Server 
+2. To make it look as aesthetically pleasing as possible without sacrificing functionality.
+
 In this Instructable, I will lay out what materials I used, the design process, the steps to follow, as well as some improvements for the future.
 
 **Let's dive in!**
