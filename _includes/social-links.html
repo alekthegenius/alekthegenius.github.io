@@ -13,6 +13,12 @@
         </a>
     {% endif %}
     
+    {% if site.quizlet %}
+        <a class="link" data-title="quizlet.com/{{ site.quizlet }}" href="https://quizlet.com/{{ site.quizlet }}" target="_blank" rel="noopener">
+            <i class="fa-solid fa-q"></i>
+        </a>
+    {% endif %}
+    
     {% if site.twitter %}
         <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">
             <i class="fa-brands fa-twitter"></i>
