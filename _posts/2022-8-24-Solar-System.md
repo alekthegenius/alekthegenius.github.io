@@ -2,7 +2,7 @@
 title: "GeoCentric Solar System"
 layout: post
 date: 2022-8-24 10:06
-image: GeoHeader.png
+image: /GeoHeader.png
 headerImage: true
 tag:
 - Solar
