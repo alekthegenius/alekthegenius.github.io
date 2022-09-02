@@ -3,7 +3,7 @@ title: "An Interview Copernicus"
 layout: post
 date: 2022-9-2 12:05
 image: none
-headerImage: none
+headerImage: false
 tag:
 - Solar
 - Logic Pro
