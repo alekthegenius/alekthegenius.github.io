@@ -35,7 +35,7 @@ After creating an object in Tinkercad, you then export it as an stl file.
     <source src="https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T">
 </video>
 
-After it has finished downloading, lets install Makerbot or whatever [slicer](https://en.wikipedia.org/wiki/Slicer_(3D_printing) is recommended for your 3d printer.
+After it has finished downloading, lets install Makerbot or whatever [slicer](https://en.wikipedia.org/wiki/Slicer_(3D_printing)) is recommended for your 3d printer.
 
 <video width="600" controls>
     <source src="https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T">
