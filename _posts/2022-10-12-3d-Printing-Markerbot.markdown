@@ -1,5 +1,5 @@
 ---
-title: "3d Printing with a Makerbot 3d Printer"
+title: "3d Printing"
 layout: post
 date: 2022-10-12 8:30
 image: 
