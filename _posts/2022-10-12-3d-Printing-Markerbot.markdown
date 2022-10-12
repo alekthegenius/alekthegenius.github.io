@@ -24,5 +24,8 @@ In this tutorial I will describe the basics of 3d printing, before we get starte
 
 
 In this first video, I will create an object in [Tinkercad](http://tinkercad.com) for 3d printing.
-![Video](https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T)
+
+<video controls>
+    <source src="https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T">
+</video>
 
