@@ -25,18 +25,18 @@ In this tutorial I will describe the basics of 3d printing, before we get starte
 
 In this first video, I will create a simple house in [Tinkercad](http://tinkercad.com) to be used for 3d printing.
 
-<video width="600" controls>
+<video width="500" controls>
     <source src="https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T">
 </video>
 
 After creating an object in Tinkercad, you then export it as an stl file.
 
-<video width="600" controls>
+<video width="500" controls>
     <source src="https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T">
 </video>
 
 After it has finished downloading, lets install Makerbot or whatever [slicer](https://en.wikipedia.org/wiki/Slicer_(3D_printing)) is recommended for your 3d printer.
 
-<video width="600" controls>
+<video width="500" controls>
     <source src="https://drive.google.com/uc?export=download&id=1rsOSf52-NrigMRUeXW4yjJ3Ooa_vmr4T">
 </video>
