@@ -1,7 +1,7 @@
 ---
 title: "3d Printing"
 layout: post
-date: 2022-10-12 8:30
+date: 2022-11-12 7:31
 image: 
 headerImage: false
 tag:
