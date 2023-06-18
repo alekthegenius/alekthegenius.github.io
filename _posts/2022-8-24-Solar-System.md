@@ -8,6 +8,7 @@ tag:
 - Solar
 - Fusion 360
 - Model
+- School
 category: blog
 author: Alek V.
 description: Created a GeoCentric Solar System
