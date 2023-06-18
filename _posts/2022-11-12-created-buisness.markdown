@@ -10,7 +10,7 @@ tag:
 - Update
 category: blog
 author: Alek V.
-description: Created a Website for My Buisness
+description: "Created a Website for My Buisness"
 ---
 
 Today I created a website for my buisness side, that showcases my fields of expertise. https://alekthegenius.github.io/tech/
