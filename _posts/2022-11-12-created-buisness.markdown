@@ -1,5 +1,5 @@
 ---
-title: "Created a Buisness Website
+title: "Created a Buisness Website"
 layout: post
 date: 2022-7-6 13:33
 image: icon.png
